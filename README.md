@@ -190,7 +190,7 @@ write the result to a tab-sep table with columns "pmid" and "textLen".
 # Installation
 
 Install these packages on ubuntu:
-    sudo apt-get install catdoc poppler-utils docx2text gnumeric python-lxml
+    sudo apt-get install catdoc poppler-utils docx2txt gnumeric python-lxml
 
 - catdoc contains various converters for Microsoft Office files
 - poppler-utils contains one of the pdftotext converters
